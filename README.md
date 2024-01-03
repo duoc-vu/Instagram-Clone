@@ -1,3 +1,3 @@
-# vietgram
+# Instagram Clon
 
-On this repository I'll clone Instagram front end and back end
+Sử dụng ngôn ngữ html , css để dựng lại mạng xã hội Instagram gồm các trang : login , profile , home , edit-profile.
